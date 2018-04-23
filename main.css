@@ -5,3 +5,9 @@ p button {
 .upvote {
   margin-left: 10px;
 }
+
+.fa-trash {
+  color: red;
+  font-size: 35px;
+  margin-left: 10px;
+}
